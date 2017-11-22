@@ -1,0 +1,866 @@
+{
+    "type_id": [
+        {
+            "typeName": "小说",
+            "typeKey": "1"
+        },
+        {
+            "typeName": "评论",
+            "typeKey": "2"
+        },
+        {
+            "typeName": "随笔",
+            "typeKey": "3"
+        },
+        {
+            "typeName": "诗歌",
+            "typeKey": "4"
+        },
+        {
+            "typeName": "剧本",
+            "typeKey": "5"
+        }
+    ],
+    "fw": [
+        {
+            "fwName": "全站",
+            "fwKey": "1"
+        },
+        {
+            "fwName": "完结半价",
+            "fwKey": "2"
+        },
+        {
+            "fwName": "VIP库",
+            "fwKey": "3"
+        }
+    ],
+    "fbsj": [
+        {
+            "fbsjName": "两个月内",
+            "fbsjKey": "2"
+        },
+        {
+            "fbsjName": "一季度内",
+            "fbsjKey": "3"
+        },
+        {
+            "fbsjName": "半年内",
+            "fbsjKey": "6"
+        },
+        {
+            "fbsjName": "一年内",
+            "fbsjKey": "12"
+        },
+        {
+            "fbsjName": "两年内",
+            "fbsjKey": "24"
+        }
+    ],
+    "yc": [
+        {
+            "ycName": "原创",
+            "ycKey": "1"
+        },
+        {
+            "ycName": "衍生",
+            "ycKey": "2"
+        }
+    ],
+    "xx": [
+        {
+            "xxName": "言情",
+            "xxKey": "1"
+        },
+        {
+            "xxName": "纯爱",
+            "xxKey": "2"
+        },
+        {
+            "xxName": "百合",
+            "xxKey": "3"
+        },
+        {
+            "xxName": "女尊",
+            "xxKey": "4"
+        },
+        {
+            "xxName": "无CP",
+            "xxKey": "5"
+        }
+    ],
+    "sd": [
+        {
+            "sdName": "近代现代",
+            "sdKey": "1"
+        },
+        {
+            "sdName": "古色古香",
+            "sdKey": "2"
+        },
+        {
+            "sdName": "架空历史",
+            "sdKey": "4"
+        },
+        {
+            "sdName": "幻想未来",
+            "sdKey": "5"
+        }
+    ],
+    "lx": [
+        {
+            "lxName": "爱情",
+            "lxKey": "1"
+        },
+        {
+            "lxName": "武侠",
+            "lxKey": "2"
+        },
+        {
+            "lxName": "奇幻",
+            "lxKey": "3"
+        },
+        {
+            "lxName": "仙侠",
+            "lxKey": "4"
+        },
+        {
+            "lxName": "网游",
+            "lxKey": "5"
+        },
+        {
+            "lxName": "传奇",
+            "lxKey": "6"
+        },
+        {
+            "lxName": "科幻",
+            "lxKey": "7"
+        },
+        {
+            "lxName": "童话",
+            "lxKey": "8"
+        },
+        {
+            "lxName": "恐怖",
+            "lxKey": "9"
+        },
+        {
+            "lxName": "侦探",
+            "lxKey": "10"
+        },
+        {
+            "lxName": "动漫",
+            "lxKey": "11"
+        },
+        {
+            "lxName": "影视",
+            "lxKey": "12"
+        },
+        {
+            "lxName": "小说",
+            "lxKey": "13"
+        },
+        {
+            "lxName": "真人",
+            "lxKey": "14"
+        },
+        {
+            "lxName": "其他",
+            "lxKey": "15"
+        },
+        {
+            "lxName": "剧情",
+            "lxKey": "16"
+        },
+        {
+            "lxName": "轻小说",
+            "lxKey": "17"
+        }
+    ],
+    "fg": [
+        {
+            "fgName": "悲剧",
+            "fgKey": "1"
+        },
+        {
+            "fgName": "正剧",
+            "fgKey": "2"
+        },
+        {
+            "fgName": "轻松",
+            "fgKey": "3"
+        },
+        {
+            "fgName": "爆笑",
+            "fgKey": "4"
+        },
+        {
+            "fgName": "暗黑",
+            "fgKey": "5"
+        }
+    ],
+    "collectiontypes": [
+        {
+            "collectionName": "求并集：含有标签A的文章、含有标签B的文章、含有……",
+            "collectionKey": "ors"
+        },
+        {
+            "collectionName": "求交集：既含有标签A、又含有标签B、又含有……的文章",
+            "collectionKey": "ands"
+        }
+    ],
+    "bq": [
+        {
+            "bqName": "快穿",
+            "bqKey": "125"
+        },
+        {
+            "bqName": "重生",
+            "bqKey": "75"
+        },
+        {
+            "bqName": "甜文",
+            "bqKey": "124"
+        },
+        {
+            "bqName": "穿越时空",
+            "bqKey": "60"
+        },
+        {
+            "bqName": "随身空间",
+            "bqKey": "56"
+        },
+        {
+            "bqName": "娱乐圈",
+            "bqKey": "64"
+        },
+        {
+            "bqName": "系统",
+            "bqKey": "122"
+        },
+        {
+            "bqName": "种田文",
+            "bqKey": "66"
+        },
+        {
+            "bqName": "穿书",
+            "bqKey": "134"
+        },
+        {
+            "bqName": "爽文",
+            "bqKey": "137"
+        },
+        {
+            "bqName": "仙侠修真",
+            "bqKey": "68"
+        },
+        {
+            "bqName": "情有独钟",
+            "bqKey": "39"
+        },
+        {
+            "bqName": "综漫",
+            "bqKey": "6"
+        },
+        {
+            "bqName": "生子",
+            "bqKey": "20"
+        },
+        {
+            "bqName": "强强",
+            "bqKey": "19"
+        },
+        {
+            "bqName": "英美剧",
+            "bqKey": "17"
+        },
+        {
+            "bqName": "星际",
+            "bqKey": "135"
+        },
+        {
+            "bqName": "末世",
+            "bqKey": "81"
+        },
+        {
+            "bqName": "网王",
+            "bqKey": "1"
+        },
+        {
+            "bqName": "HP",
+            "bqKey": "3"
+        },
+        {
+            "bqName": "豪门世家",
+            "bqKey": "33"
+        },
+        {
+            "bqName": "火影",
+            "bqKey": "4"
+        },
+        {
+            "bqName": "异能",
+            "bqKey": "72"
+        },
+        {
+            "bqName": "青梅竹马",
+            "bqKey": "62"
+        },
+        {
+            "bqName": "女配",
+            "bqKey": "96"
+        },
+        {
+            "bqName": "美食",
+            "bqKey": "99"
+        },
+        {
+            "bqName": "异世大陆",
+            "bqKey": "57"
+        },
+        {
+            "bqName": "无限流",
+            "bqKey": "83"
+        },
+        {
+            "bqName": "古穿今",
+            "bqKey": "65"
+        },
+        {
+            "bqName": "清穿",
+            "bqKey": "18"
+        },
+        {
+            "bqName": "虐恋情深",
+            "bqKey": "42"
+        },
+        {
+            "bqName": "都市情缘",
+            "bqKey": "30"
+        },
+        {
+            "bqName": "性别转换",
+            "bqKey": "24"
+        },
+        {
+            "bqName": "天作之合",
+            "bqKey": "52"
+        },
+        {
+            "bqName": "武侠",
+            "bqKey": "11"
+        },
+        {
+            "bqName": "灵异神怪",
+            "bqKey": "26"
+        },
+        {
+            "bqName": "宫廷侯爵",
+            "bqKey": "32"
+        },
+        {
+            "bqName": "未来架空",
+            "bqKey": "127"
+        },
+        {
+            "bqName": "破镜重圆",
+            "bqKey": "47"
+        },
+        {
+            "bqName": "游戏网游",
+            "bqKey": "92"
+        },
+        {
+            "bqName": "红楼梦",
+            "bqKey": "15"
+        },
+        {
+            "bqName": "家教",
+            "bqKey": "12"
+        },
+        {
+            "bqName": "女强",
+            "bqKey": "82"
+        },
+        {
+            "bqName": "天之骄子",
+            "bqKey": "54"
+        },
+        {
+            "bqName": "猎人",
+            "bqKey": "5"
+        },
+        {
+            "bqName": "现代架空",
+            "bqKey": "126"
+        },
+        {
+            "bqName": "超级英雄",
+            "bqKey": "132"
+        },
+        {
+            "bqName": "前世今生",
+            "bqKey": "49"
+        },
+        {
+            "bqName": "民国旧影",
+            "bqKey": "61"
+        },
+        {
+            "bqName": "励志人生",
+            "bqKey": "121"
+        },
+        {
+            "bqName": "布衣生活",
+            "bqKey": "38"
+        },
+        {
+            "bqName": "灵魂转换",
+            "bqKey": "23"
+        },
+        {
+            "bqName": "宫斗",
+            "bqKey": "74"
+        },
+        {
+            "bqName": "欢喜冤家",
+            "bqKey": "41"
+        },
+        {
+            "bqName": "打脸",
+            "bqKey": "138"
+        },
+        {
+            "bqName": "少年漫",
+            "bqKey": "90"
+        },
+        {
+            "bqName": "直播",
+            "bqKey": "142"
+        },
+        {
+            "bqName": "少女漫",
+            "bqKey": "14"
+        },
+        {
+            "bqName": "幻想空间",
+            "bqKey": "25"
+        },
+        {
+            "bqName": "黑篮",
+            "bqKey": "95"
+        },
+        {
+            "bqName": "机甲",
+            "bqKey": "97"
+        },
+        {
+            "bqName": "婚恋",
+            "bqKey": "78"
+        },
+        {
+            "bqName": "东方玄幻",
+            "bqKey": "144"
+        },
+        {
+            "bqName": "竞技",
+            "bqKey": "70"
+        },
+        {
+            "bqName": "复仇虐渣",
+            "bqKey": "145"
+        },
+        {
+            "bqName": "奇幻魔幻",
+            "bqKey": "27"
+        },
+        {
+            "bqName": "悬疑推理",
+            "bqKey": "128"
+        },
+        {
+            "bqName": "网红",
+            "bqKey": "141"
+        },
+        {
+            "bqName": "年下",
+            "bqKey": "21"
+        },
+        {
+            "bqName": "洪荒",
+            "bqKey": "67"
+        },
+        {
+            "bqName": "升级流",
+            "bqKey": "139"
+        },
+        {
+            "bqName": "花季雨季",
+            "bqKey": "31"
+        },
+        {
+            "bqName": "科幻",
+            "bqKey": "28"
+        },
+        {
+            "bqName": "港台剧",
+            "bqKey": "87"
+        },
+        {
+            "bqName": "历史剧",
+            "bqKey": "91"
+        },
+        {
+            "bqName": "宅斗",
+            "bqKey": "73"
+        },
+        {
+            "bqName": "平步青云",
+            "bqKey": "55"
+        },
+        {
+            "bqName": "业界精英",
+            "bqKey": "101"
+        },
+        {
+            "bqName": "西幻",
+            "bqKey": "143"
+        },
+        {
+            "bqName": "血族",
+            "bqKey": "69"
+        },
+        {
+            "bqName": "原著向",
+            "bqKey": "93"
+        },
+        {
+            "bqName": "海贼王",
+            "bqKey": "13"
+        },
+        {
+            "bqName": "西方罗曼",
+            "bqKey": "59"
+        },
+        {
+            "bqName": "女扮男装",
+            "bqKey": "136"
+        },
+        {
+            "bqName": "死神",
+            "bqKey": "2"
+        },
+        {
+            "bqName": "时代奇缘",
+            "bqKey": "22"
+        },
+        {
+            "bqName": "乡村爱情",
+            "bqKey": "58"
+        },
+        {
+            "bqName": "因缘邂逅",
+            "bqKey": "45"
+        },
+        {
+            "bqName": "西方名著",
+            "bqKey": "16"
+        },
+        {
+            "bqName": "日剧",
+            "bqKey": "86"
+        },
+        {
+            "bqName": "异国奇缘",
+            "bqKey": "37"
+        },
+        {
+            "bqName": "相爱相杀",
+            "bqKey": "103"
+        },
+        {
+            "bqName": "江湖恩怨",
+            "bqKey": "35"
+        },
+        {
+            "bqName": "古典名著",
+            "bqKey": "130"
+        },
+        {
+            "bqName": "近水楼台",
+            "bqKey": "46"
+        },
+        {
+            "bqName": "乔装改扮",
+            "bqKey": "51"
+        },
+        {
+            "bqName": "恐怖",
+            "bqKey": "29"
+        },
+        {
+            "bqName": "网配",
+            "bqKey": "84"
+        },
+        {
+            "bqName": "银魂",
+            "bqKey": "94"
+        },
+        {
+            "bqName": "美娱",
+            "bqKey": "140"
+        },
+        {
+            "bqName": "授权衍生",
+            "bqKey": "148"
+        },
+        {
+            "bqName": "制服情缘",
+            "bqKey": "85"
+        },
+        {
+            "bqName": "阴差阳错",
+            "bqKey": "53"
+        },
+        {
+            "bqName": "传奇",
+            "bqKey": "89"
+        },
+        {
+            "bqName": "职场",
+            "bqKey": "98"
+        },
+        {
+            "bqName": "三教九流",
+            "bqKey": "36"
+        },
+        {
+            "bqName": "七五",
+            "bqKey": "8"
+        },
+        {
+            "bqName": "边缘恋歌",
+            "bqKey": "44"
+        },
+        {
+            "bqName": "商战",
+            "bqKey": "123"
+        },
+        {
+            "bqName": "恋爱合约",
+            "bqKey": "48"
+        },
+        {
+            "bqName": "七年之痒",
+            "bqKey": "79"
+        },
+        {
+            "bqName": "爱情战争",
+            "bqKey": "50"
+        },
+        {
+            "bqName": "圣斗士",
+            "bqKey": "10"
+        },
+        {
+            "bqName": "霹雳",
+            "bqKey": "9"
+        },
+        {
+            "bqName": "骑士与剑",
+            "bqKey": "63"
+        },
+        {
+            "bqName": "婆媳",
+            "bqKey": "80"
+        },
+        {
+            "bqName": "SD",
+            "bqKey": "7"
+        }
+    ],
+    "lxNew": {
+        "1": [
+            {
+                "lxName": "爱情",
+                "lxKey": "1"
+            },
+            {
+                "lxName": "武侠",
+                "lxKey": "2"
+            },
+            {
+                "lxName": "奇幻",
+                "lxKey": "3"
+            },
+            {
+                "lxName": "仙侠",
+                "lxKey": "4"
+            },
+            {
+                "lxName": "网游",
+                "lxKey": "5"
+            },
+            {
+                "lxName": "传奇",
+                "lxKey": "6"
+            },
+            {
+                "lxName": "科幻",
+                "lxKey": "7"
+            },
+            {
+                "lxName": "童话",
+                "lxKey": "8"
+            },
+            {
+                "lxName": "恐怖",
+                "lxKey": "9"
+            },
+            {
+                "lxName": "侦探",
+                "lxKey": "10"
+            },
+            {
+                "lxName": "轻小说",
+                "lxKey": "17"
+            }
+        ],
+        "2": [
+            {
+                "lxName": "动漫",
+                "lxKey": "11"
+            },
+            {
+                "lxName": "影视",
+                "lxKey": "12"
+            },
+            {
+                "lxName": "小说",
+                "lxKey": "13"
+            },
+            {
+                "lxName": "真人",
+                "lxKey": "14"
+            },
+            {
+                "lxName": "其他",
+                "lxKey": "15"
+            },
+            {
+                "lxName": "剧情",
+                "lxKey": "16"
+            },
+            {
+                "lxName": "轻小说",
+                "lxKey": "17"
+            }
+        ]
+    },
+    "mainview": [
+        {
+            "mainviewName": "男主",
+            "mainviewKey": "1"
+        },
+        {
+            "mainviewName": "女主",
+            "mainviewKey": "2"
+        },
+        {
+            "mainviewName": "主攻",
+            "mainviewKey": "3"
+        },
+        {
+            "mainviewName": "主受",
+            "mainviewKey": "4"
+        },
+        {
+            "mainviewName": "互攻",
+            "mainviewKey": "5"
+        },
+        {
+            "mainviewName": "不明",
+            "mainviewKey": "8"
+        }
+    ],
+    "mainviewNew": {
+        "1": [
+            {
+                "mainviewName": "男主",
+                "mainviewKey": "1"
+            },
+            {
+                "mainviewName": "女主",
+                "mainviewKey": "2"
+            },
+            {
+                "mainviewName": "不明",
+                "mainviewKey": "8"
+            }
+        ],
+        "2": [
+            {
+                "mainviewName": "主攻",
+                "mainviewKey": "3"
+            },
+            {
+                "mainviewName": "主受",
+                "mainviewKey": "4"
+            },
+            {
+                "mainviewName": "互攻",
+                "mainviewKey": "5"
+            },
+            {
+                "mainviewName": "不明",
+                "mainviewKey": "8"
+            }
+        ],
+        "3": [
+            {
+                "mainviewName": "主攻",
+                "mainviewKey": "3"
+            },
+            {
+                "mainviewName": "主受",
+                "mainviewKey": "4"
+            },
+            {
+                "mainviewName": "互攻",
+                "mainviewKey": "5"
+            },
+            {
+                "mainviewName": "不明",
+                "mainviewKey": "8"
+            }
+        ],
+        "4": [
+            {
+                "mainviewName": "男主",
+                "mainviewKey": "1"
+            },
+            {
+                "mainviewName": "女主",
+                "mainviewKey": "2"
+            },
+            {
+                "mainviewName": "不明",
+                "mainviewKey": "8"
+            }
+        ],
+        "5": [
+            {
+                "mainviewName": "男主",
+                "mainviewKey": "1"
+            },
+            {
+                "mainviewName": "女主",
+                "mainviewKey": "2"
+            },
+            {
+                "mainviewName": "不明",
+                "mainviewKey": "8"
+            }
+        ]
+    }
+}
